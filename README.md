@@ -43,6 +43,3 @@ This website is publicly available and specifically designed for web scraping pr
 - Pandas
 - HTML & CSS
 
----
-
-## 📂 Project Structure
