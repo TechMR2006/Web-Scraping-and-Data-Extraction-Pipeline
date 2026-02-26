@@ -24,17 +24,6 @@ The project fulfills all requirements of Task 4 (Intermediate Level).
 - Download product images locally
 - Generate an HTML summary dashboard
 
----
-
-## 🌍 Website Used
-
-**Books to Scrape**  
-http://books.toscrape.com  
-
-This website is publicly available and specifically designed for web scraping practice.
-
----
-
 ## 🛠 Technologies Used
 
 - Python
